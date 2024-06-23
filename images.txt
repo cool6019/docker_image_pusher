@@ -2,8 +2,5 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-mcr.microsoft.com/azure-cognitive-services/diagnostic:latest
-mcr.kubesre.xyz/azure-cognitive-services/diagnostic:latest
-docker.kubesre.xyz/stilleshan/frpc:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
